@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Rubik's cube WebApplication 
+
+A 3D Rubik's cube game by Three.js and react. 
+
 ## Available Scripts
 
 In the project directory, you can run:
